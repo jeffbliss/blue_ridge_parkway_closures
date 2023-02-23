@@ -1,6 +1,15 @@
 # blue_ridge_parkway_closures
 
-## Sample Output
+### Install and Run Instructions
+```
+git clone git@github.com:jeffbliss/blue_ridge_parkway_closures.git
+pyenv virtualenv 3.9.15 parkway
+pyenv activate parkway
+pip install -r requirements.txt
+python update_parkway.py
+```
+
+### Sample Output from above
 
 ```[{'crossroads': 'Crossroads',
   'mileposts': 'Parkway\nMileposts',
