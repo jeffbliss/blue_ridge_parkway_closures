@@ -13,9 +13,6 @@ style_constants_dict = {
     'icon_closed': '#icon-1739-A52714'
 }
 
-
-
-
 ################################ SCRAPING PARKWAY OPEN/CLOSED STATUS
 table_data = []
 parkway_status = []
@@ -115,11 +112,27 @@ for placemark in features_list:
         else: # assume icon style of closed
             placemark.styleUrl = style_constants_dict['icon_closed']
 
-        for element in placemark.extended_data.elements:
-            if element.name == 'status':
-                element.value = status
-            elif element.name == 'notes':
-                element.value = notes
+        extended_data_string = f"""
+        <kml:ExtendedData xmlns:kml="http://www.opengis.net/kml/2.2">
+          <kml:Data name="mileposts">    
+            <kml:value>{mileposts}</kml:value> 
+          </kml:Data>
+          <kml:Data name="status">
+            <kml:value>{status}</kml:value>
+          </kml:Data>
+          <kml:Data name="notes">
+            <kml:value>{notes}</kml:value>
+          </kml:Data>
+        </kml:ExtendedData>
+        """
+        extended_data = placemark.extended_data
+        extended_data.from_string(extended_data_string)
+
+        # for element in placemark.extended_data.elements:
+        #    if element.name == 'status':
+        #        element.value = status
+        #    elif element.name == 'notes':
+        #        element.value = notes
        
 with open("output.kml", "wt") as f:
     f.writelines(k.to_string(prettyprint=True))

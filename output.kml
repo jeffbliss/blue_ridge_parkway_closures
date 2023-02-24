@@ -138,6 +138,9 @@
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>0.0 - 2.2</value>
+        </Data>
         <Data name="status">
           <value>Closed</value>
         </Data>
@@ -155,6 +158,9 @@
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>2.2 - 4.4</value>
+        </Data>
         <Data name="status">
           <value>Ungated</value>
         </Data>
@@ -172,6 +178,9 @@
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>4.4 - 13.6</value>
+        </Data>
         <Data name="status">
           <value>Closed</value>
         </Data>
@@ -189,6 +198,9 @@
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>16.1 - 27.1</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -206,6 +218,9 @@
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>27.1 - 29.1</value>
+        </Data>
         <Data name="status">
           <value>Ungated</value>
         </Data>
@@ -223,6 +238,9 @@
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>29.1 - 45.5</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -240,6 +258,9 @@
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>45.5 -61.4</value>
+        </Data>
         <Data name="status">
           <value>Closed</value>
         </Data>
@@ -257,6 +278,9 @@
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>61.4 - 66.3</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -274,6 +298,9 @@
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>66.3 - 76.4</value>
+        </Data>
         <Data name="status">
           <value>Closed</value>
         </Data>
@@ -292,6 +319,9 @@ Maintenance operations today near milepost 85.0</description>
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>76.4 - 85.9</value>
+        </Data>
         <Data name="status">
           <value>Closed</value>
         </Data>
@@ -310,6 +340,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>85.9 - 91.0</value>
+        </Data>
         <Data name="status">
           <value>Ungated</value>
         </Data>
@@ -327,6 +360,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>105.8 - 112.4</value>
+        </Data>
         <Data name="status">
           <value>Closed</value>
         </Data>
@@ -344,6 +380,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>112.4 -121.4</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -361,6 +400,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>121.4 - 135.9</value>
+        </Data>
         <Data name="status">
           <value>Closed</value>
         </Data>
@@ -378,6 +420,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>135.9 - 167.2</value>
+        </Data>
         <Data name="status">
           <value>Ungated</value>
         </Data>
@@ -395,6 +440,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>167.2 - 170.3</value>
+        </Data>
         <Data name="status">
           <value>Closed</value>
         </Data>
@@ -412,6 +460,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>170.3 - 198.4</value>
+        </Data>
         <Data name="status">
           <value>Ungated</value>
         </Data>
@@ -429,6 +480,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>198.4 - 199.0</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -446,6 +500,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>199.0 - 200.1</value>
+        </Data>
         <Data name="status">
           <value>Ungated</value>
         </Data>
@@ -463,6 +520,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>200.1 - 202.1</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -480,6 +540,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>202.1 - 234.1</value>
+        </Data>
         <Data name="status">
           <value>Ungated</value>
         </Data>
@@ -497,6 +560,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>234.1 - 242.3</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -514,6 +580,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>242.3 - 285.5</value>
+        </Data>
         <Data name="status">
           <value>Ungated</value>
         </Data>
@@ -531,6 +600,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>285.5 - 288.0</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -548,6 +620,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>288.0 - 290.8</value>
+        </Data>
         <Data name="status">
           <value>Ungated</value>
         </Data>
@@ -565,6 +640,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>290.8 - 292.1</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -582,6 +660,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>292.1 - 294.5</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -599,6 +680,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>294.6 - 296.4</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -616,6 +700,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>298.5 - 305.1</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -633,6 +720,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>305.1 - 305.2</value>
+        </Data>
         <Data name="status">
           <value>Ungated</value>
         </Data>
@@ -650,6 +740,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>305.2 - 307.9</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -667,6 +760,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>307.9 - 314.6</value>
+        </Data>
         <Data name="status">
           <value>Ungated</value>
         </Data>
@@ -684,6 +780,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>314.6 - 317.5</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -701,6 +800,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>324.7 - 330.9</value>
+        </Data>
         <Data name="status">
           <value>Ungated</value>
         </Data>
@@ -718,6 +820,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>330.9 - 333.9</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -735,6 +840,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>333.9 - 342.1</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -752,6 +860,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>342.1 - 344.2</value>
+        </Data>
         <Data name="status">
           <value>Ungated</value>
         </Data>
@@ -769,6 +880,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>344.2 - 355.3</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -786,6 +900,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>355.3 - 364.5</value>
+        </Data>
         <Data name="status">
           <value>Closed</value>
         </Data>
@@ -803,6 +920,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>364.5 - 367.6</value>
+        </Data>
         <Data name="status">
           <value>Closed</value>
         </Data>
@@ -820,6 +940,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>367.6 - 375.7</value>
+        </Data>
         <Data name="status">
           <value>Closed</value>
         </Data>
@@ -837,6 +960,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>375.7 - 381.9</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -854,6 +980,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>382.8 - 384.1</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -871,6 +1000,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>384.1 - 384.7</value>
+        </Data>
         <Data name="status">
           <value>Ungated</value>
         </Data>
@@ -888,6 +1020,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>384.7 - 388.8</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -905,6 +1040,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>388.8 - 393.6</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -922,6 +1060,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>393.6 - 402.7</value>
+        </Data>
         <Data name="status">
           <value>Closed</value>
         </Data>
@@ -939,6 +1080,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>402.7 - 405.5</value>
+        </Data>
         <Data name="status">
           <value>Closed</value>
         </Data>
@@ -956,6 +1100,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>405.5 - 408.8</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -973,6 +1120,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>408.8 - 411.9</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -990,6 +1140,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>411.9 - 418.7</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -1007,6 +1160,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>418.7 - 420.2</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -1024,6 +1180,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>420.2 - 423.2</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -1041,6 +1200,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>423.2 - 443.0</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -1058,6 +1220,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>443.0 - 455.7</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -1075,6 +1240,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>455.7 - 469.1</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -1092,6 +1260,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>13.6 - 16.1</value>
+        </Data>
         <Data name="status">
           <value>Ungated</value>
         </Data>
@@ -1109,6 +1280,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>91.0 - 105.8</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -1126,6 +1300,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>296.4 - 298.5</value>
+        </Data>
         <Data name="status">
           <value>Ungated</value>
         </Data>
@@ -1143,6 +1320,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>317.5 - 324.7</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -1160,6 +1340,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>381.9 - 382.8</value>
+        </Data>
         <Data name="status">
           <value>Ungated</value>
         </Data>
@@ -1177,6 +1360,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#icon-1739-558B2F</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>316.5</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -1194,6 +1380,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#icon-1739-558B2F</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>377.4</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -1211,6 +1400,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#icon-1739-A52714</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>115.0</value>
+        </Data>
         <Data name="status">
           <value>Closed</value>
         </Data>
@@ -1228,6 +1420,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#icon-1739-A52714</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>120.3</value>
+        </Data>
         <Data name="status">
           <value>Closed</value>
         </Data>
@@ -1245,6 +1440,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#icon-1739-A52714</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>120.4</value>
+        </Data>
         <Data name="status">
           <value>Closed</value>
         </Data>
@@ -1262,6 +1460,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#icon-1739-558B2F</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>237.1</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
@@ -1279,6 +1480,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#icon-1739-A52714</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>400.3</value>
+        </Data>
         <Data name="status">
           <value>Closed</value>
         </Data>
@@ -1296,6 +1500,9 @@ Maintenance operations today near milepost 85.0</value>
       <visibility>1</visibility>
       <styleUrl>#icon-1739-558B2F</styleUrl>
       <ExtendedData>
+        <Data name="mileposts">
+          <value>458.2</value>
+        </Data>
         <Data name="status">
           <value>Open</value>
         </Data>
