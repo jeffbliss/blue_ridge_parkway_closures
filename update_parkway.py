@@ -13,7 +13,10 @@ style_constants_dict = {
     'icon_closed': '#icon-1739-A52714'
 }
 
-#### SCRAPING PARKWAY OPEN/CLOSED STATUS
+
+
+
+################################ SCRAPING PARKWAY OPEN/CLOSED STATUS
 table_data = []
 parkway_status = []
 url = 'https://www.nps.gov/blri/planyourvisit/roadclosures.htm'
@@ -56,9 +59,10 @@ for row in table_data:
         dict = {'mileposts': mileposts, 'crossroads': crossroads, 'status': status}
     parkway_status.append(dict)
 
-# pp.pprint(parkway_status)
 
-#### READING KML FILE AND MODIFYING IT WITH NEW STATUS
+
+
+################################ READING KML FILE AND MODIFYING IT WITH NEW STATUS
 kml_file = 'modified_name.kml'
 with open(kml_file, 'rt') as myfile:
     doc=myfile.read().encode('utf-8')
@@ -117,7 +121,5 @@ for placemark in features_list:
             elif element.name == 'notes':
                 element.value = notes
        
-#for f in f2[0].extended_data.elements:
-
 with open("output.kml", "wt") as f:
     f.writelines(k.to_string(prettyprint=True))
