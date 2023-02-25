@@ -15,3 +15,5 @@ pyenv activate parkway
 pip install -r requirements.txt
 python update_parkway.py
 ```
+
+Small update to see if ssh key working on macbook air
