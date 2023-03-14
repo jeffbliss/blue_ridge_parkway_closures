@@ -194,15 +194,15 @@
     </Placemark>
     <Placemark>
       <name>VA Route 814 (Love Road) to VA Route 56 (Tye River Road)</name>
-      <description>Mileposts: 16.1 - 27.1&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 16.1 - 27.1&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-558B2F-4100</styleUrl>
+      <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>16.1 - 27.1</value>
         </Data>
         <Data name="status">
-          <value>Open</value>
+          <value>Closed</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -254,18 +254,18 @@
     </Placemark>
     <Placemark>
       <name>US Route 60 to VA Route 130 (Elon Road)</name>
-      <description>Mileposts: 45.5 -61.4&lt;br&gt;Status: Closed&lt;br&gt;Notes: Ice and hazardous trees</description>
+      <description>Mileposts: 45.5 -61.4&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>45.5 -61.4</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
-          <value>Ice and hazardous trees</value>
+          <value>No Notes</value>
         </Data>
       </ExtendedData>
       <LineString>
@@ -274,15 +274,15 @@
     </Placemark>
     <Placemark>
       <name>VA Route 130 (Elon Road) to VA Route 501, including James River Visitor Center</name>
-      <description>Mileposts: 61.4 - 66.3&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 61.4 - 66.3&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-558B2F-4100</styleUrl>
+      <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>61.4 - 66.3</value>
         </Data>
         <Data name="status">
-          <value>Open</value>
+          <value>Closed</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -314,8 +314,7 @@
     </Placemark>
     <Placemark>
       <name>Apple Orchard Parking Area to VA Route 43 (Peaks Road), including Peaks of Otter Lodge</name>
-      <description>Mileposts: 76.4 - 85.9&lt;br&gt;Status: Closed&lt;br&gt;Notes: (Several trees down)
-Maintenance operations today near milepost 85.0</description>
+      <description>Mileposts: 76.4 - 85.9&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
@@ -326,8 +325,7 @@ Maintenance operations today near milepost 85.0</description>
           <value>Closed</value>
         </Data>
         <Data name="notes">
-          <value>(Several trees down)
-Maintenance operations today near milepost 85.0</value>
+          <value>No Notes</value>
         </Data>
       </ExtendedData>
       <LineString>
@@ -356,15 +354,15 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>US Route 460 to VA Route 24 (Washington Avenue)</name>
-      <description>Mileposts: 105.8 - 112.4&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 105.8 - 112.4&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>105.8 - 112.4</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -436,15 +434,15 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>Rocky Knob Maintenace Area to VA Route 720 (Old Fields Rd), including Rocky Knob Picnic Area</name>
-      <description>Mileposts: 167.2 - 170.3&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 167.2 - 170.3&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>167.2 - 170.3</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -496,7 +494,7 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>Ranger Road/Fancy Gap Maintenance Area to Sunbelt/Autumnview Road</name>
-      <description>Mileposts: 199.0 - 200.1&lt;br&gt;Status: Ungated&lt;br&gt;Notes: Closed</description>
+      <description>Mileposts: 199.0 - 200.1&lt;br&gt;Status: Ungated&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
       <styleUrl>#line-7CB342-4294</styleUrl>
       <ExtendedData>
@@ -507,7 +505,7 @@ Maintenance operations today near milepost 85.0</value>
           <value>Ungated</value>
         </Data>
         <Data name="notes">
-          <value>Closed</value>
+          <value>No Notes</value>
         </Data>
       </ExtendedData>
       <LineString>
@@ -596,15 +594,15 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>Bamboo Gap to Aho Gap</name>
-      <description>Mileposts: 285.5 - 288.0&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 285.5 - 288.0&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-558B2F-4100</styleUrl>
+      <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>285.5 - 288.0</value>
         </Data>
         <Data name="status">
-          <value>Open</value>
+          <value>Closed</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -636,15 +634,15 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>Green Hill Road to US Highway 321/221 Blowing Rock</name>
-      <description>Mileposts: 290.8 - 292.1&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 290.8 - 292.1&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-558B2F-4100</styleUrl>
+      <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>290.8 - 292.1</value>
         </Data>
         <Data name="status">
-          <value>Open</value>
+          <value>Closed</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -656,15 +654,15 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>US Highway 321/221 Blowing Rock to Sandy Flat Gap, including Moses Cone Manor</name>
-      <description>Mileposts: 292.1 - 294.5&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 292.1 - 294.5&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-558B2F-4100</styleUrl>
+      <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>292.1 - 294.5</value>
         </Data>
         <Data name="status">
-          <value>Open</value>
+          <value>Closed</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -676,15 +674,15 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>Sandy Flat Gap to Price Park Picnic Area</name>
-      <description>Mileposts: 294.6 - 296.4&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 294.6 - 296.4&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-558B2F-4100</styleUrl>
+      <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>294.6 - 296.4</value>
         </Data>
         <Data name="status">
-          <value>Open</value>
+          <value>Closed</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -696,15 +694,15 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>Holloway Mountain Road to US Highway 221 (Beacon Heights)</name>
-      <description>Mileposts: 298.5 - 305.1&lt;br&gt;Status: Open&lt;br&gt;Notes: From November 14, 2022 through April 1, 2023 there will be intermittent closures of the parkway from milepost 298.5-305 for winter 2022/2023 maintenance operations.</description>
+      <description>Mileposts: 298.5 - 305.1&lt;br&gt;Status: Closed&lt;br&gt;Notes: From November 14, 2022 through April 1, 2023 there will be intermittent closures of the parkway from milepost 298.5-305 for winter 2022/2023 maintenance operations.</description>
       <visibility>1</visibility>
-      <styleUrl>#line-558B2F-4100</styleUrl>
+      <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>298.5 - 305.1</value>
         </Data>
         <Data name="status">
-          <value>Open</value>
+          <value>Closed</value>
         </Data>
         <Data name="notes">
           <value>From November 14, 2022 through April 1, 2023 there will be intermittent closures of the parkway from milepost 298.5-305 for winter 2022/2023 maintenance operations.</value>
@@ -816,15 +814,15 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>NC Highway 226 (Gillespie Gap) to Little Switzerland</name>
-      <description>Mileposts: 330.9 - 333.9&lt;br&gt;Status: Open&lt;br&gt;Notes: North Carolina Museum of Minerals is closed.</description>
+      <description>Mileposts: 330.9 - 333.9&lt;br&gt;Status: Closed&lt;br&gt;Notes: North Carolina Museum of Minerals is closed.</description>
       <visibility>1</visibility>
-      <styleUrl>#line-558B2F-4100</styleUrl>
+      <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>330.9 - 333.9</value>
         </Data>
         <Data name="status">
-          <value>Open</value>
+          <value>Closed</value>
         </Data>
         <Data name="notes">
           <value>North Carolina Museum of Minerals is closed.</value>
@@ -836,18 +834,18 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>Little Switzerland to Victor Crossing</name>
-      <description>Mileposts: 333.9 - 342.1&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 333.9 - 342.1&lt;br&gt;Status: Closed&lt;br&gt;Notes: Ice</description>
       <visibility>1</visibility>
-      <styleUrl>#line-558B2F-4100</styleUrl>
+      <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>333.9 - 342.1</value>
         </Data>
         <Data name="status">
-          <value>Open</value>
+          <value>Closed</value>
         </Data>
         <Data name="notes">
-          <value>No Notes</value>
+          <value>Ice</value>
         </Data>
       </ExtendedData>
       <LineString>
@@ -876,18 +874,18 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>NC Highway 80 to Mount Mitchell State Park</name>
-      <description>Mileposts: 344.2 - 355.3&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 344.2 - 355.3&lt;br&gt;Status: Closed&lt;br&gt;Notes: Ice</description>
       <visibility>1</visibility>
-      <styleUrl>#line-558B2F-4100</styleUrl>
+      <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>344.2 - 355.3</value>
         </Data>
         <Data name="status">
-          <value>Open</value>
+          <value>Closed</value>
         </Data>
         <Data name="notes">
-          <value>No Notes</value>
+          <value>Ice</value>
         </Data>
       </ExtendedData>
       <LineString>
@@ -916,7 +914,7 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>South of Craggy Gardens Tunnel to North of Craggy Gardens Picnic Area</name>
-      <description>Mileposts: 364.5 - 367.6&lt;br&gt;Status: Closed&lt;br&gt;Notes: Due to adverse weather conditions</description>
+      <description>Mileposts: 364.5 - 367.6&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
@@ -927,7 +925,7 @@ Maintenance operations today near milepost 85.0</value>
           <value>Closed</value>
         </Data>
         <Data name="notes">
-          <value>Due to adverse weather conditions</value>
+          <value>No Notes</value>
         </Data>
       </ExtendedData>
       <LineString>
@@ -936,7 +934,7 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>North of Craggy Gardens Picnic Area to Bull Gap (North of Elk Mountain/Ox Creek Road)</name>
-      <description>Mileposts: 367.6 - 375.7&lt;br&gt;Status: Closed&lt;br&gt;Notes: Due to adverse weather conditions</description>
+      <description>Mileposts: 367.6 - 375.7&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
@@ -947,7 +945,7 @@ Maintenance operations today near milepost 85.0</value>
           <value>Closed</value>
         </Data>
         <Data name="notes">
-          <value>Due to adverse weather conditions</value>
+          <value>No Notes</value>
         </Data>
       </ExtendedData>
       <LineString>
@@ -1056,15 +1054,15 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>NC Route 191 (Brevard Road) to Stoney Bald</name>
-      <description>Mileposts: 393.6 - 402.7&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 393.6 - 402.7&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>393.6 - 402.7</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -1076,15 +1074,15 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>Stoney Bald to NC Highway 151 Access Road</name>
-      <description>Mileposts: 402.7 - 405.5&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 402.7 - 405.5&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>402.7 - 405.5</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -1216,18 +1214,18 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>Balsam Gap (US Route 23/74) to Soco Gap (US Route 19)</name>
-      <description>Mileposts: 443.0 - 455.7&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 443.0 - 455.7&lt;br&gt;Status: Closed&lt;br&gt;Notes: Ice</description>
       <visibility>1</visibility>
-      <styleUrl>#line-558B2F-4100</styleUrl>
+      <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>443.0 - 455.7</value>
         </Data>
         <Data name="status">
-          <value>Open</value>
+          <value>Closed</value>
         </Data>
         <Data name="notes">
-          <value>No Notes</value>
+          <value>Ice</value>
         </Data>
       </ExtendedData>
       <LineString>
@@ -1236,18 +1234,18 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>Soco Gap (US Route 19) to US Route 441 thru Great Smoky Mtns. NP</name>
-      <description>Mileposts: 455.7 - 469.1&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 455.7 - 469.1&lt;br&gt;Status: Closed&lt;br&gt;Notes: Ice</description>
       <visibility>1</visibility>
-      <styleUrl>#line-558B2F-4100</styleUrl>
+      <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>455.7 - 469.1</value>
         </Data>
         <Data name="status">
-          <value>Open</value>
+          <value>Closed</value>
         </Data>
         <Data name="notes">
-          <value>No Notes</value>
+          <value>Ice</value>
         </Data>
       </ExtendedData>
       <LineString>
@@ -1396,15 +1394,15 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>Explore Park Rd. (Roanoke River Pkwy)</name>
-      <description>Mileposts: 115.0&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 115.0&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#icon-1739-A52714</styleUrl>
+      <styleUrl>#icon-1739-558B2F</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>115.0</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -1436,15 +1434,15 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>Mill Mountain Spur Road</name>
-      <description>Mileposts: 120.4&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 120.4&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#icon-1739-A52714</styleUrl>
+      <styleUrl>#icon-1739-558B2F</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>120.4</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -1456,15 +1454,15 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>Air Bellows Gap Access Road</name>
-      <description>Mileposts: 237.1&lt;br&gt;Status: Open&lt;br&gt;Notes: From February 6, 2023 through April 1, 2023 there will be intermittent closures of the parkway from milepost 217-248 for winter 2022/2023 maintenance operations.</description>
+      <description>Mileposts: 237.1&lt;br&gt;Status: Closed&lt;br&gt;Notes: From February 6, 2023 through April 1, 2023 there will be intermittent closures of the parkway from milepost 217-248 for winter 2022/2023 maintenance operations.</description>
       <visibility>1</visibility>
-      <styleUrl>#icon-1739-558B2F</styleUrl>
+      <styleUrl>#icon-1739-A52714</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>237.1</value>
         </Data>
         <Data name="status">
-          <value>Open</value>
+          <value>Closed</value>
         </Data>
         <Data name="notes">
           <value>From February 6, 2023 through April 1, 2023 there will be intermittent closures of the parkway from milepost 217-248 for winter 2022/2023 maintenance operations.</value>
@@ -1476,15 +1474,15 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>USFS Road 5000 (Bent Creek Access Road)</name>
-      <description>Mileposts: 400.3&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 400.3&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#icon-1739-A52714</styleUrl>
+      <styleUrl>#icon-1739-558B2F</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>400.3</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -1496,18 +1494,18 @@ Maintenance operations today near milepost 85.0</value>
     </Placemark>
     <Placemark>
       <name>Heintooga Spur Road</name>
-      <description>Mileposts: 458.2&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 458.2&lt;br&gt;Status: Closed&lt;br&gt;Notes: Ice</description>
       <visibility>1</visibility>
-      <styleUrl>#icon-1739-558B2F</styleUrl>
+      <styleUrl>#icon-1739-A52714</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>458.2</value>
         </Data>
         <Data name="status">
-          <value>Open</value>
+          <value>Closed</value>
         </Data>
         <Data name="notes">
-          <value>No Notes</value>
+          <value>Ice</value>
         </Data>
       </ExtendedData>
       <Point>
