@@ -19,5 +19,5 @@ python update_parkway.py
 ### Geojson conversion
 ```
 npm install -g @mapbox/togeojson
-togeojson output.kml > output.geojson
+togeojson output.kml > output.json
 ```
