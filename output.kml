@@ -274,15 +274,15 @@
     </Placemark>
     <Placemark>
       <name>VA Route 130 (Elon Road) to VA Route 501, including James River Visitor Center</name>
-      <description>Mileposts: 61.4 - 66.3&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 61.4 - 66.3&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>61.4 - 66.3</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -314,15 +314,15 @@
     </Placemark>
     <Placemark>
       <name>Apple Orchard Parking Area to VA Route 43 (Peaks Road), including Peaks of Otter Lodge</name>
-      <description>Mileposts: 76.4 - 85.9&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 76.4 - 85.9&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>76.4 - 85.9</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -554,15 +554,15 @@
     </Placemark>
     <Placemark>
       <name>Mahogany Rock (NC) to Alligator Back Overlook</name>
-      <description>Mileposts: 234.1 - 242.3&lt;br&gt;Status: Open&lt;br&gt;Notes: From February 6, 2023 through April 1, 2023 there will be intermittent closures of the parkway from milepost 217-248 for winter 2022/2023 maintenance operations.</description>
+      <description>Mileposts: 234.1 - 242.3&lt;br&gt;Status: Closed&lt;br&gt;Notes: From February 6, 2023 through April 1, 2023 there will be intermittent closures of the parkway from milepost 217-248 for winter 2022/2023 maintenance operations.</description>
       <visibility>1</visibility>
-      <styleUrl>#line-558B2F-4100</styleUrl>
+      <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>234.1 - 242.3</value>
         </Data>
         <Data name="status">
-          <value>Open</value>
+          <value>Closed</value>
         </Data>
         <Data name="notes">
           <value>From February 6, 2023 through April 1, 2023 there will be intermittent closures of the parkway from milepost 217-248 for winter 2022/2023 maintenance operations.</value>
@@ -1074,15 +1074,15 @@
     </Placemark>
     <Placemark>
       <name>Stoney Bald to NC Highway 151 Access Road</name>
-      <description>Mileposts: 402.7 - 405.5&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 402.7 - 405.5&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-558B2F-4100</styleUrl>
+      <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>402.7 - 405.5</value>
         </Data>
         <Data name="status">
-          <value>Open</value>
+          <value>Closed</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -1214,18 +1214,18 @@
     </Placemark>
     <Placemark>
       <name>Balsam Gap (US Route 23/74) to Soco Gap (US Route 19)</name>
-      <description>Mileposts: 443.0 - 455.7&lt;br&gt;Status: Closed&lt;br&gt;Notes: Ice</description>
+      <description>Mileposts: 443.0 - 455.7&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>443.0 - 455.7</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
-          <value>Ice</value>
+          <value>No Notes</value>
         </Data>
       </ExtendedData>
       <LineString>
