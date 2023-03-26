@@ -134,15 +134,15 @@
     </StyleMap>
     <Placemark>
       <name>Rockfish Gap (I-64) to VA Route 610 (Howardsville Turnpike)</name>
-      <description>Mileposts: 0.0 - 2.2&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 0.0 - 2.2&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>0.0 - 2.2</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -174,15 +174,15 @@
     </Placemark>
     <Placemark>
       <name>VA Route 610 (Old Draft Drive) to VA Route 664 (Lyndhurst Drive), including Humpback Rocks Visitor Center</name>
-      <description>Mileposts: 4.4 - 13.6&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 4.4 - 13.6&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>4.4 - 13.6</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -194,15 +194,15 @@
     </Placemark>
     <Placemark>
       <name>VA Route 814 (Love Road) to VA Route 56 (Tye River Road)</name>
-      <description>Mileposts: 16.1 - 27.1&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 16.1 - 27.1&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>16.1 - 27.1</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -294,15 +294,15 @@
     </Placemark>
     <Placemark>
       <name>VA Route 501 to Apple Orchard Parking Area</name>
-      <description>Mileposts: 66.3 - 76.4&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 66.3 - 76.4&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>66.3 - 76.4</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -554,15 +554,15 @@
     </Placemark>
     <Placemark>
       <name>Mahogany Rock (NC) to Alligator Back Overlook</name>
-      <description>Mileposts: 234.1 - 242.3&lt;br&gt;Status: Closed&lt;br&gt;Notes: From February 6, 2023 through April 1, 2023 there will be intermittent closures of the parkway from milepost 217-248 for winter 2022/2023 maintenance operations.</description>
+      <description>Mileposts: 234.1 - 242.3&lt;br&gt;Status: Open&lt;br&gt;Notes: From February 6, 2023 through April 1, 2023 there will be intermittent closures of the parkway from milepost 217-248 for winter 2022/2023 maintenance operations.</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>234.1 - 242.3</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>From February 6, 2023 through April 1, 2023 there will be intermittent closures of the parkway from milepost 217-248 for winter 2022/2023 maintenance operations.</value>
@@ -594,15 +594,15 @@
     </Placemark>
     <Placemark>
       <name>Bamboo Gap to Aho Gap</name>
-      <description>Mileposts: 285.5 - 288.0&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 285.5 - 288.0&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>285.5 - 288.0</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -634,15 +634,15 @@
     </Placemark>
     <Placemark>
       <name>Green Hill Road to US Highway 321/221 Blowing Rock</name>
-      <description>Mileposts: 290.8 - 292.1&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 290.8 - 292.1&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>290.8 - 292.1</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -654,15 +654,15 @@
     </Placemark>
     <Placemark>
       <name>US Highway 321/221 Blowing Rock to Sandy Flat Gap, including Moses Cone Manor</name>
-      <description>Mileposts: 292.1 - 294.5&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 292.1 - 294.5&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>292.1 - 294.5</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -674,15 +674,15 @@
     </Placemark>
     <Placemark>
       <name>Sandy Flat Gap to Price Park Picnic Area</name>
-      <description>Mileposts: 294.6 - 296.4&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 294.6 - 296.4&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>294.6 - 296.4</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -694,15 +694,15 @@
     </Placemark>
     <Placemark>
       <name>Holloway Mountain Road to US Highway 221 (Beacon Heights)</name>
-      <description>Mileposts: 298.5 - 305.1&lt;br&gt;Status: Closed&lt;br&gt;Notes: From November 14, 2022 through April 1, 2023 there will be intermittent closures of the parkway from milepost 298.5-305 for winter 2022/2023 maintenance operations.</description>
+      <description>Mileposts: 298.5 - 305.1&lt;br&gt;Status: Open&lt;br&gt;Notes: From November 14, 2022 through April 1, 2023 there will be intermittent closures of the parkway from milepost 298.5-305 for winter 2022/2023 maintenance operations.</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>298.5 - 305.1</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>From November 14, 2022 through April 1, 2023 there will be intermittent closures of the parkway from milepost 298.5-305 for winter 2022/2023 maintenance operations.</value>
@@ -814,15 +814,15 @@
     </Placemark>
     <Placemark>
       <name>NC Highway 226 (Gillespie Gap) to Little Switzerland</name>
-      <description>Mileposts: 330.9 - 333.9&lt;br&gt;Status: Closed&lt;br&gt;Notes: North Carolina Museum of Minerals is closed.</description>
+      <description>Mileposts: 330.9 - 333.9&lt;br&gt;Status: Open&lt;br&gt;Notes: North Carolina Museum of Minerals is closed.</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>330.9 - 333.9</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>North Carolina Museum of Minerals is closed.</value>
@@ -834,18 +834,18 @@
     </Placemark>
     <Placemark>
       <name>Little Switzerland to Victor Crossing</name>
-      <description>Mileposts: 333.9 - 342.1&lt;br&gt;Status: Closed&lt;br&gt;Notes: Ice</description>
+      <description>Mileposts: 333.9 - 342.1&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>333.9 - 342.1</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
-          <value>Ice</value>
+          <value>No Notes</value>
         </Data>
       </ExtendedData>
       <LineString>
@@ -874,18 +874,18 @@
     </Placemark>
     <Placemark>
       <name>NC Highway 80 to Mount Mitchell State Park</name>
-      <description>Mileposts: 344.2 - 355.3&lt;br&gt;Status: Closed&lt;br&gt;Notes: Ice</description>
+      <description>Mileposts: 344.2 - 355.3&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>344.2 - 355.3</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
-          <value>Ice</value>
+          <value>No Notes</value>
         </Data>
       </ExtendedData>
       <LineString>
@@ -894,7 +894,7 @@
     </Placemark>
     <Placemark>
       <name>NC Highway 128 to South of Craggy Gardens Tunnel, including Craggy Gardens Visitor Center</name>
-      <description>Mileposts: 355.3 - 364.5&lt;br&gt;Status: Closed&lt;br&gt;Notes: From January 30, 2023 through February 24, 2023 there will be intermittent closures of the parkway from milepost 355-365 for winter 2022/2023 maintenance operations.</description>
+      <description>Mileposts: 355.3 - 364.5&lt;br&gt;Status: Closed&lt;br&gt;Notes: Maintenance Activity</description>
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
@@ -905,7 +905,7 @@
           <value>Closed</value>
         </Data>
         <Data name="notes">
-          <value>From January 30, 2023 through February 24, 2023 there will be intermittent closures of the parkway from milepost 355-365 for winter 2022/2023 maintenance operations.</value>
+          <value>Maintenance Activity</value>
         </Data>
       </ExtendedData>
       <LineString>
@@ -914,7 +914,7 @@
     </Placemark>
     <Placemark>
       <name>South of Craggy Gardens Tunnel to North of Craggy Gardens Picnic Area</name>
-      <description>Mileposts: 364.5 - 367.6&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 364.5 - 367.6&lt;br&gt;Status: Closed&lt;br&gt;Notes: Ice</description>
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
@@ -925,7 +925,7 @@
           <value>Closed</value>
         </Data>
         <Data name="notes">
-          <value>No Notes</value>
+          <value>Ice</value>
         </Data>
       </ExtendedData>
       <LineString>
@@ -934,7 +934,7 @@
     </Placemark>
     <Placemark>
       <name>North of Craggy Gardens Picnic Area to Bull Gap (North of Elk Mountain/Ox Creek Road)</name>
-      <description>Mileposts: 367.6 - 375.7&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 367.6 - 375.7&lt;br&gt;Status: Closed&lt;br&gt;Notes: Ice</description>
       <visibility>1</visibility>
       <styleUrl>#line-A52714-4100</styleUrl>
       <ExtendedData>
@@ -945,7 +945,7 @@
           <value>Closed</value>
         </Data>
         <Data name="notes">
-          <value>No Notes</value>
+          <value>Ice</value>
         </Data>
       </ExtendedData>
       <LineString>
@@ -1074,15 +1074,15 @@
     </Placemark>
     <Placemark>
       <name>Stoney Bald to NC Highway 151 Access Road</name>
-      <description>Mileposts: 402.7 - 405.5&lt;br&gt;Status: Closed&lt;br&gt;Notes: No Notes</description>
+      <description>Mileposts: 402.7 - 405.5&lt;br&gt;Status: Open&lt;br&gt;Notes: No Notes</description>
       <visibility>1</visibility>
-      <styleUrl>#line-A52714-4100</styleUrl>
+      <styleUrl>#line-558B2F-4100</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>402.7 - 405.5</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>No Notes</value>
@@ -1454,15 +1454,15 @@
     </Placemark>
     <Placemark>
       <name>Air Bellows Gap Access Road</name>
-      <description>Mileposts: 237.1&lt;br&gt;Status: Closed&lt;br&gt;Notes: From February 6, 2023 through April 1, 2023 there will be intermittent closures of the parkway from milepost 217-248 for winter 2022/2023 maintenance operations.</description>
+      <description>Mileposts: 237.1&lt;br&gt;Status: Open&lt;br&gt;Notes: From February 6, 2023 through April 1, 2023 there will be intermittent closures of the parkway from milepost 217-248 for winter 2022/2023 maintenance operations.</description>
       <visibility>1</visibility>
-      <styleUrl>#icon-1739-A52714</styleUrl>
+      <styleUrl>#icon-1739-558B2F</styleUrl>
       <ExtendedData>
         <Data name="mileposts">
           <value>237.1</value>
         </Data>
         <Data name="status">
-          <value>Closed</value>
+          <value>Open</value>
         </Data>
         <Data name="notes">
           <value>From February 6, 2023 through April 1, 2023 there will be intermittent closures of the parkway from milepost 217-248 for winter 2022/2023 maintenance operations.</value>
